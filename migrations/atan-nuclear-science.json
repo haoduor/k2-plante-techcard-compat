@@ -1,0 +1,14 @@
+{
+  "item":
+  [
+    ["nuclear-science-pack", "nuclear-tech-card"]
+  ],
+  "recipe":
+  [
+    ["nuclear-science-pack", "nuclear-tech-card"]  
+  ],
+  "technology":
+  [
+    ["nuclear-science-pack", "nuclear-tech-card"]
+  ]
+}

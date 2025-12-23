@@ -1,0 +1,14 @@
+{
+  "item":
+  [
+    ["interstellar-science-pack", "interstellar-tech-card"]
+  ],
+  "recipe":
+  [
+    ["interstellar-science-pack", "interstellar-tech-card"]  
+  ],
+  "technology":
+  [
+    ["interstellar-science-pack", "interstellar-tech-card"]
+  ]
+}

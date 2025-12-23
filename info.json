@@ -1,0 +1,24 @@
+{
+  "name": "k2-plante-techcard-compat",
+  "version": "0.0.8",
+  "title": "k2 plante techcard compat",
+  "author": "gugugu",
+  "homepage": "",
+  "contact": "",
+  "description": "no description",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "space-age >= 2.0.58",
+    "Krastorio2-spaced-out >= 1.4.0",
+    "?planet-muluna",
+    "?atan-nuclear-science"
+  ],
+  "quality_required": true,
+  "rail_bridges_required": true,
+  "space_travel_required": true,
+  "spoiling_required": false,
+  "freezing_required": false,
+  "segmented_units_required": false,
+  "expansion_shaders_required": false
+}
