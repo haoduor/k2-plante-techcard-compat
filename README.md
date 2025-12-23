@@ -1,6 +1,3 @@
-[![Release](https://github.com/fgardt/factorio-mod-template/actions/workflows/release.yml/badge.svg?branch=main)](https://github.com/fgardt/factorio-mod-template/actions/workflows/release.yml)
-<!--                           ^======[REPLACE THIS]======^                                                                          ^======[REPLACE THIS]======^  -->
-
 # factorio-mod-template
 
 A small Factorio Mod template which also contains GitHub Actions for automatic changelog generation, packaging and releasing to the [Factorio Mod Portal](https://mods.factorio.com)
